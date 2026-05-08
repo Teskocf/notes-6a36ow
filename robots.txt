@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Teskocf.github.io/notes-6a36ow/sitemap.xml
